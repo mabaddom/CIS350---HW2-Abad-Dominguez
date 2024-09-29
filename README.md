@@ -7,9 +7,9 @@
 
 ## Tecnical Background 
 
-I have experience in python, throughout my first year CIS classes 
-I also have early experience in Linux which I have been learning in CIS 241
-I am currently self-teaching myself Java for our group project
+I have experience in python, throughout my first year CIS classes, where we also did projects like our chess game. 
+I also have early experience in Linux which I have been learning in CIS 241.
+I am currently self-teaching myself Java for our group project in order to get a better understanding of the concepts I already know. 
 
 
 ### Meme
