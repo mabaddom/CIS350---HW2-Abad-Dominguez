@@ -1,7 +1,7 @@
 # Marcus Abad-Dominguez
 
-* I like learning no coding languages
-* I am intresting in game development
+* I like learning new coding languages
+* I am intrested in game development
 * I also just play a lot of games in my free time
 
 
@@ -14,4 +14,4 @@ I am currently self-teaching myself Java for our group project
 
 ### Meme
 
-Heres my Spongebob [Meme] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwZWd7ecqwBWcmlTzUE9o8oeVgLoe3WToDNw&s) 
+Heres my Spongebob [Meme](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwZWd7ecqwBWcmlTzUE9o8oeVgLoe3WToDNw&s) 
